@@ -436,7 +436,7 @@
     "english": "I will become the god of the new world.",
     "anime": "Death Note",
     "character": "Light Yagami",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -447,7 +447,7 @@
     "anime": "Code Geass: Lelouch of the Rebellion",
     "character": "Lelouch vi Britannia",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 46,
@@ -467,7 +467,7 @@
     "anime": "Hunter x Hunter",
     "character": "Gon Freecss",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 48,
