@@ -503,7 +503,7 @@
     "mainColor": "oklch(72.0% 0.085 70.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.065 55.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "dragon-scale",
@@ -513,7 +513,7 @@
     "mainColor": "oklch(68.0% 0.175 160.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.145 140.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "morning-dew",
@@ -533,7 +533,7 @@
     "mainColor": "oklch(90.0% 0.115 95.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.195 340.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "fuji-sunrise",
@@ -542,7 +542,7 @@
     "backgroundColor": "oklch(23.0% 0.048 40.0 / 1)",
     "mainColor": "oklch(85.0% 0.155 55.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.175 25.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
