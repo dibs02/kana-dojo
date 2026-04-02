@@ -1428,7 +1428,7 @@
     "backgroundColor": "oklch(21.0% 0.030 45.0 / 1)",
     "mainColor": "oklch(75.0% 0.155 55.0 / 1)",
     "secondaryColor": "oklch(82.0% 0.135 95.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1608,8 +1608,10 @@
     "backgroundColor": "oklch(21.0% 0.025 190.0 / 1)",
     "mainColor": "oklch(76.0% 0.085 180.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.065 210.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "zhangzhengshan",
+    "completedPR": 11465
   },
   {
     "id": "tea-garden",
@@ -1700,7 +1702,7 @@
     "backgroundColor": "oklch(88.0% 0.030 340.0 / 1)",
     "mainColor": "oklch(55.0% 0.170 350.0 / 1)",
     "secondaryColor": "oklch(35.0% 0.020 260.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
