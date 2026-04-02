@@ -146,7 +146,7 @@ const NavLink = memo(
 
     // Style classes for original (simple) design
     const activeClassesSimple =
-      'bg-(--border-color) text-(--main-color) lg:bg-(--card-color)';
+      'bg-(--border-color) text-(--main-color) lg:bg-(--card-color) motion-safe:animate-float [--float-distance:-3px]';
     const inactiveClasses =
       'text-(--secondary-color) hover:bg-(--card-color)';
 
@@ -182,8 +182,8 @@ const NavLink = memo(
 
       // Text color when active differs based on style
       const activeTextClass = USE_ACTION_BUTTON_STYLE
-        ? 'text-(--background-color)'
-        : 'text-(--main-color)';
+        ? 'text-(--background-color) motion-safe:animate-float [--float-distance:-3px]'
+        : 'text-(--main-color) motion-safe:animate-float [--float-distance:-3px]';
 
       // Padding adjustment for ActionButton style (compensate for border)
       const paddingClasses = USE_ACTION_BUTTON_STYLE
