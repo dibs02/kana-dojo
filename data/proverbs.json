@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "japanese": "猿も木から落ちる",
+    "reading": "Saru mo ki kara ochiru",
+    "english": "Even monkeys fall from trees."
+  },
+  {
+    "id": 2,
+    "japanese": "井の中の蛙大海を知らず",
+    "reading": "I no naka no kawazu taikai o shirazu",
+    "english": "A frog in a well knows nothing of the great ocean."
+  },
+  {
+    "id": 3,
+    "japanese": "三日坊主",
+    "reading": "Mikka bōzu",
+    "english": "A three-day monk (someone who quits easily)."
+  },
+  {
+    "id": 4,
+    "japanese": "石の上にも三年",
+    "reading": "Ishi no ue ni mo san-nen",
+    "english": "Three years on a stone (perseverance brings success)."
+  },
+  {
+    "id": 5,
+    "japanese": "急がば回れ",
+    "reading": "Isogaba maware",
+    "english": "If you are in a hurry, take the long way around."
+  },
+  {
+    "id": 6,
+    "japanese": "花より団子",
+    "reading": "Hana yori dango",
+    "english": "Dumplings rather than flowers (substance over style)."
+  },
+  {
+    "id": 7,
+    "japanese": "猫に小判",
+    "reading": "Neko ni koban",
+    "english": "Gold coins to a cat (something valuable wasted on someone who doesn't appreciate it)."
+  },
+  {
+    "id": 8,
+    "japanese": "七転び八起き",
+    "reading": "Nanakorobi yaoki",
+    "english": "Fall seven times, stand up eight."
+  },
+  {
+    "id": 9,
+    "japanese": "二兎を追う者は一兎をも得ず",
+    "reading": "Nito o ou mono wa itto o mo ezu",
+    "english": "He who chases two rabbits catches neither."
+  },
+  {
+    "id": 10,
+    "japanese": "百聞は一見に如かず",
+    "reading": "Hyakubun wa ikke ni shikazu",
+    "english": "Seeing once is better than hearing a hundred times."
+  },
+  {
+    "id": 62,
+    "japanese": "笑う門には福来る",
+    "reading": "Warau kado ni wa fuku kitaru",
+    "english": "Fortune comes to the smiling house."
+  }
+]
