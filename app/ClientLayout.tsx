@@ -12,6 +12,7 @@ import useOnboardingStore from '@/shared/store/useOnboardingStore';
 import {
   AchievementNotificationContainer,
   AchievementIntegration,
+  AchievementPromptsContainer,
 } from '@/features/Achievements/components';
 import {
   applyTheme,
@@ -322,6 +323,8 @@ export default function ClientLayout({
         }}
       />
       <AchievementNotificationContainer />
+      {/* hamza */}
+      <AchievementPromptsContainer />
       <AchievementIntegration />
       <BackToTop />
       <MobileBottomBar />
