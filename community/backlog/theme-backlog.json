@@ -1928,5 +1928,15 @@
     "secondaryColor": "oklch(68.0% 0.090 60.0 / 1)",
     "issued": false,
     "completed": false
+  },
+  {
+    "id": "ramen-shop",
+    "name": "Ramen Shop",
+    "description": "Warm noodle-inspired palette with savory red and golden tones",
+    "backgroundColor": "oklch(94.0% 0.025 85.0 / 1)",
+    "mainColor": "oklch(60.0% 0.195 25.0 / 1)",
+    "secondaryColor": "oklch(88.0% 0.145 90.0 / 1)",
+    "issued": false,
+    "completed": true
   }
 ]
